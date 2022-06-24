@@ -1,0 +1,2 @@
+# VIR3 Python/Pygame radionica 2022
+Ovde se čuvaju materijali sa Python/Pygame predavanja na onlajn radionici 2022. godine sa polaznicima Veštačke inteligencije i robotike kao i polaznički projekti. Materijali sa Python predavanja mogu se naći u `predavanja/python/` direktorijumu, sa Pygame u `predavanja/pygame/` direktorijumu a polaznički projekti se mogu naći u `projekti/` direktorijumu. Više detalja se može pronaći u tim direktorijumima.
