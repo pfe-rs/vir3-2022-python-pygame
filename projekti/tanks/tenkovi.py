@@ -152,9 +152,9 @@ class ground:
                     pygame.draw.rect(surf, self.color, (self.blocks[i][j].x, self.blocks[i][j].y, self.bsize, self.bsize));
 
 bipovi = [];
-bipovi.append(pygame.mixer.Sound('.\\assets\\beep-02.mp3'));  
+bipovi.append(pygame.mixer.Sound('./assets/beep-02.wav'));  
 
-boop = pygame.mixer.Sound('.\\assets\\beep-03.mp3');
+boop = pygame.mixer.Sound('.\\assets\\beep-03.wav');
 
 dis = pygame.display.set_mode((scrw, scrh));
 pygame.display.set_caption('Wroms: MS-DOS Edition');
