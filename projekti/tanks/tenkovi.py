@@ -154,11 +154,11 @@ class ground:
 bipovi = [];
 bipovi.append(pygame.mixer.Sound('./assets/beep-02.wav'));  
 
-boop = pygame.mixer.Sound('.\\assets\\beep-03.wav');
+boop = pygame.mixer.Sound('./assets/beep-03.wav');
 
 dis = pygame.display.set_mode((scrw, scrh));
 pygame.display.set_caption('Wroms: MS-DOS Edition');
-fnt = pygame.font.Font('.\\assets\\upheavtt.ttf', 32);
+fnt = pygame.font.Font('./assets/upheavtt.ttf', 32);
 
 
 tlo = ground(9, 4, bsize, (100, 255, 100));
